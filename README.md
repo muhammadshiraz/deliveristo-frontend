@@ -43,7 +43,7 @@ Before you begin, ensure you have met the following requirements:
 3. **Run the development server:**
 
    ```bash
-   npm start
+   npm run start
    ```
 
    The app will be running at `http://localhost:3000`.
