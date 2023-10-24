@@ -2,6 +2,8 @@
 
 This project is a web app that displays images of dogs based on different criteria, such as random images by breed, a list of images by breed, random images by breed and sub-breed, and a list of images by breed and sub-breed. The app is built using React.js and TypeScript, and it interacts with the [Dog API](https://dog.ceo/dog-api) to fetch dog-related data.
 
+![Screenshot](src/screenshot.png)
+
 ## Live Demo
 
 You can view the live demo of this project [here](https://muhammadshiraz.github.io/deliveristo-frontend).
