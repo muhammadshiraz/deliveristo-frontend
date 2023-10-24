@@ -1,0 +1,32 @@
+/* ImageList.css */
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px; /* Gap between grid items */
+  justify-content: flex-start; /* Center the grid */
+}
+
+.image-item {
+  width: 500px; /* Ensure all images have the same width */
+  height: 500px; /* Set a fixed height for all images */
+  overflow: hidden; /* Hide overflow if images are larger than the fixed height */
+}
+
+.image-item img {
+  width: 100%; /* Make sure the image fills its container */
+  height: 100%; /* Maintain aspect ratio */
+  object-fit: cover; /* Cover the container without stretching the image */
+}
+
+.refresh-button {
+  width: 150px;
+  height: 40px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
