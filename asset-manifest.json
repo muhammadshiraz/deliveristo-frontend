@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deliveristo-frontend/static/css/main.0f661b7d.css",
+    "main.js": "/deliveristo-frontend/static/js/main.a1b050bd.js",
+    "index.html": "/deliveristo-frontend/index.html",
+    "main.0f661b7d.css.map": "/deliveristo-frontend/static/css/main.0f661b7d.css.map",
+    "main.a1b050bd.js.map": "/deliveristo-frontend/static/js/main.a1b050bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f661b7d.css",
+    "static/js/main.a1b050bd.js"
+  ]
+}
